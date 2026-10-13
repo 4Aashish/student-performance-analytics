@@ -1,0 +1,15 @@
+student_code,subject_code,assessment_name,obtained_marks,max_marks
+CSES3001,CS301,Internal-1,25,30
+CSES3002,CS301,Internal-1,31,30
+CSES3003,CS301,Internal-1,-2,30
+CSES3004,CS301,Internal-1,abc,30
+CSES3005,CS301,Internal-1,20,0
+CSES3006,CS301,Internal-1,,30
+CSES3007,CS301,Midterm,20,50
+CSES3008,CS301,Midterm,20,40
+CSES3009,CS301,Internal-1,10,30
+CSES3009,CS301,Internal-1,12,30
+NOSTUDENT,CS301,Internal-1,10,30
+CSES3010,CS999,Internal-1,10,30
+CSES3011,CS501,Internal-1,10,30
+CSES3012,CS301,,10,30

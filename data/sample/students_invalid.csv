@@ -1,0 +1,9 @@
+student_code,name,class_name,department,semester,status
+CSE3101,Valid One,CSE-S3,CSE,3,active
+CSE3101,Duplicate Code,CSE-S3,CSE,3,active
+CSE3102,,CSE-S3,CSE,3,active
+CSE3103,Wrong Class,CSE-S9,CSE,3,active
+CSE3104,Bad Semester,CSE-S3,CSE,abc,active
+CSE3105,Semester Mismatch,CSE-S3,CSE,5,active
+CSE3106,Bad Status,CSE-S3,CSE,3,graduated
+CSE3107,Perfectly Fine,CSE-S3,CSE,3,active
